@@ -1,2 +1,2 @@
-# -
-여기는 스크립트 창
+loadstring(game:HttpGet("https://scripts.waza80.com/script/BuildABoat"))()
+
