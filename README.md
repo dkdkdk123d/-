@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://scripts.waza80.com/script/BuildABoat"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/uqQHvSDJ"))()
 
